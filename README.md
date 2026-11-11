@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-dariapavlova-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavlova-b-daria/)](https://www.linkedin.com/in/pavlova-b-daria/)
 [![Medium Badge](https://img.shields.io/badge/-@dariaops-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@dariaops)](https://medium.com/@dariaops)
-[![Website Badge](https://img.shields.io/badge/-pavlovadaria-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://pavlova-dari.pp.ua)](https://pavlova-daria.pp.ua)
+[![Website Badge](https://img.shields.io/badge/-pavlovadaria-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://pavlova-dari.pp.ua)](https://pavlova-dari.pp.ua)
 [![Gmail Badge](https://img.shields.io/badge/-pavlova.d.borisovna-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pavlova.d.borisovna@gmail.com)](mailto:pavlova.d.borisovna@gmail.com)
 
 Welcome to my profile! I'm Daria Pavlova, a DevOps Engineer in the UK🇬🇧 with a passion for leveraging cutting-edge technologies to streamline and optimize operations. I have over 5️⃣ years of professional experience and specialize in CI/CD pipelines, cloud infrastructure automation, and orchestration tools like Docker🐳 and Kubernetes.
